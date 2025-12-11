@@ -33,6 +33,13 @@ export default {
     privacy: "गोपनीयता",
     terms: "शर्तें",
   },
+  contact: {
+    title: "हमसे",
+    titleHighlight: "संपर्क करें",
+    description: "कोई सवाल या प्रतिक्रिया है? हमें आपसे सुनना अच्छा लगेगा।",
+    emailButton: "हमें ईमेल भेजें",
+    emailAddress: "team@lunasync.app"
+  },
   terms: {
     title: 'सेवा की',
     titleHighlight: 'शर्तें',

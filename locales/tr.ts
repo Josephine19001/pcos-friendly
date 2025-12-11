@@ -33,6 +33,13 @@ export default {
     privacy: "Gizlilik",
     terms: "Sartlar",
   },
+  contact: {
+    title: "Bizimle",
+    titleHighlight: "Iletisime Gecin",
+    description: "Sorulariniz veya geri bildirimleriniz mi var? Sizden haber almak isteriz.",
+    emailButton: "Bize E-posta Gonderin",
+    emailAddress: "team@lunasync.app"
+  },
   terms: {
     title: 'Hizmet',
     titleHighlight: 'Sartlari',

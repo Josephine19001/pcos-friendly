@@ -33,6 +33,13 @@ export default {
     privacy: "Privacidade",
     terms: "Termos",
   },
+  contact: {
+    title: "Entre em",
+    titleHighlight: "Contato",
+    description: "Tem perguntas ou feedback? Adorariamos ouvir voce.",
+    emailButton: "Envie-nos um Email",
+    emailAddress: "team@lunasync.app"
+  },
   terms: {
     title: "Termos de",
     titleHighlight: "Servico",

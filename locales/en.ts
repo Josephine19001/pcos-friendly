@@ -35,6 +35,13 @@ export default {
     privacy: 'Privacy',
     terms: 'Terms'
   },
+  contact: {
+    title: 'Contact',
+    titleHighlight: 'Us',
+    description: 'Have questions or feedback? We\'d love to hear from you.',
+    emailButton: 'Send us an Email',
+    emailAddress: 'team@lunasync.app'
+  },
   terms: {
     title: 'Terms of',
     titleHighlight: 'Service',

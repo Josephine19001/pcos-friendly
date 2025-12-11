@@ -33,6 +33,13 @@ export default {
     privacy: "الخصوصية",
     terms: "الشروط",
   },
+  contact: {
+    title: "تواصلي",
+    titleHighlight: "معنا",
+    description: "لديك اسئلة او ملاحظات؟ يسعدنا سماع رايك.",
+    emailButton: "ارسلي لنا بريدا الكترونيا",
+    emailAddress: "team@lunasync.app"
+  },
   terms: {
     title: "شروط",
     titleHighlight: "الخدمة",
